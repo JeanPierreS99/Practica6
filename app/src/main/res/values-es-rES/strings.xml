@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica6</string>
+    <string name="results_format">Disparos: %1$d Tiempo total: %2$.1f segundos</string>
+    <string name="reset_game">Reiniciar el juego</string>
+    <string name="win">¡Tú ganas!</string>
+    <string name="lose">¡Tú pierdes!</string>
+    <string name="time_remaining_format">Tiempo restante: %.1f segundos</string>
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+</resources>
